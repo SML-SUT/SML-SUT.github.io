@@ -11,9 +11,6 @@
 - name: Gita Sarafraz
   email: gita.sarafraz@gmail.com
   img: assets/images/TAs/sarafraz.jpg
-- name: Aryan Ahadinia
-  email: aryan.ahadinia@sharif.edu
-  img: assets/images/TAs/aryan.jpg
 - name: Amir Pourmand
   email: pourmand1376@gmail.com
   img: assets/images/TAs/pourmand.jpg
@@ -29,3 +26,6 @@
 - name: Mahsa Yazdani
   email: mah.yzdni@gmail.com
   img: assets/images/TAs/mahsa.jpg
+- name: Aryan Ahadinia
+  email: aryan.ahadinia@sharif.edu
+  img: assets/images/TAs/ahadinia.jpg
