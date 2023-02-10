@@ -1,6 +1,7 @@
-- title: Introduction
+- title: Non-Parametric Bayesian Models
+  subtitle: Week 1
   assets:
     - file: Slide
-      link: assets/materials/SML_Spring2023_Syllabus.pdf
+      link: assets/materials/SML_Week_01_L01_NPB_v1.pdf
     - file: Syllabus
       link: assets/materials/SML_Spring2023_Syllabus.pdf
