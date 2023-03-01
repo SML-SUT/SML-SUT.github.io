@@ -3,3 +3,8 @@
   assets:
     - file: Slide
       link: assets/materials/SML_Week_01_L01_NPB_v1.pdf
+- title: Temporal Point Process
+  subtitle: Week 2
+  assets:
+    - file: Slide
+      link: assets/materials/Spring-2023-SML-Week_03_TPP_v2.pdf
