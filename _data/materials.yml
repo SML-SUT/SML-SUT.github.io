@@ -8,3 +8,8 @@
   assets:
     - file: Slide
       link: assets/materials/Spring-2023-SML-Week_03_TPP_v2.pdf
+- title: Probabilistic Graphical Models
+  subtitle: Week 3
+  assets:
+    - file: Slide
+      link: assets/materials/SML-PGM-01-02-Spring-2023.pdf
