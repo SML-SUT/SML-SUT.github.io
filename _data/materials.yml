@@ -1,3 +1,8 @@
+- title: Supplamentary Materials
+  subtitle: Password has been provided in class
+  assets:
+    - file: ZIP
+      link: assets/materials/SupMaterials.zip
 - title: Non-Parametric Bayesian Models
   subtitle: Week 1
   assets:
