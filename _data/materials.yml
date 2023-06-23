@@ -4,12 +4,12 @@
     - file: ZIP
       link: assets/materials/SupMaterials.zip
 - title: Non-Parametric Bayesian Models
-  subtitle: Week 1
+  subtitle: Section 1
   assets:
     - file: Slide
       link: assets/materials/SML_Week_01_L01_NPB_v1.pdf
 - title: Temporal Point Process
-  subtitle: Week 2
+  subtitle: Section 2
   assets:
     - file: Slide
       link: assets/materials/Spring-2023-SML-Week_03_TPP_v2.pdf
@@ -19,9 +19,15 @@
     - file: Slide
       link: assets/materials/SML-PGM-01-02-Spring-2023.pdf
 - title: Privacy
-  subtitle: Week 4
+  subtitle: Section 4
   assets:
     - file: Slide
       link: assets/materials/SML-Privacy-Part01-Spring-2023.pdf
     - file: Slide
       link: assets/materials/SML-Privacy-05-06-Spring-2023.pdf
+- title: Privacy
+  subtitle: Section 5
+  assets:
+    - file: Slide
+      link: assets/materials/SML-Interpretability-2023-compressed.pdf
+      
